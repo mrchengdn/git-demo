@@ -15,3 +15,4 @@ hello git! hello atguigu!
 hello git! hello atguigu! master merge
 hello git! hello atguigu! hot-fix merge
 git pull text
+git dndncc commit
